@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.012
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,7 @@
       "drc_exclusions": [
         "clearance|107250776|135053268|091c4f9b-1af6-48b1-babd-79a723bd6f76|1445b71f-5e11-403c-aa73-df2be200280d",
         "clearance|107391624|136453268|091c4f9b-1af6-48b1-babd-79a723bd6f76|6597ee22-9ca6-4275-b5d6-ffb2a324fdd8",
-        "track_dangling|109700234|134603268|2385381c-1d51-4db7-abb2-f70b510f7cbf|00000000-0000-0000-0000-000000000000"
+        "courtyards_overlap|95750001|125850001|cf5e683f-09dc-49b1-9239-0a99f2bf913a|d7c02624-a446-47af-bff8-b06c31eea286"
       ],
       "meta": {
         "version": 2
